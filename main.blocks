@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="e*@qsURt{dw#*|yAUC43" x="0" y="0"/><block type="device_forever" id=";~yZ1Ce4)8Bhj/Z2%nM0" x="205" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="e*@qsURt{dw#*|yAUC43" x="0" y="0"><comment pinned="false" h="172.44444274902344" w="196.44442749023438">Created by: Nina Mathew&#10;Created on: 9/30/20&#10;This program lights up Neopixels</comment></block><block type="device_forever" id=";~yZ1Ce4)8Bhj/Z2%nM0" x="205" y="0"/></xml>
