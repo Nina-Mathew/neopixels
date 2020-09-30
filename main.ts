@@ -12,6 +12,3 @@ strip.show()
 basic.pause(1000)
 strip.setPixelColor(1, neopixel.colors(NeoPixelColors.Green))
 strip.show()
-basic.forever(function () {
-	
-})
